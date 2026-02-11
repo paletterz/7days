@@ -1,3 +1,10 @@
+  <p align="center">
+  <img src="/images/palette-logo.png" alt="Palette Training" />
+  </p>
+
+[![Static Badge](https://img.shields.io/badge/Spectro-Cloud-1f7a78?style=flat)
+](https://docs.spectrocloud.com/tutorials/)
+
 ### Become a Platter Expert in 7 Days
 This is a 7-day learning plan to help you become proficient in using Platter, a powerful tool for data analysis and visualization. Each day focuses on different aspects of Platter, starting from the basics and gradually moving towards more advanced features.
 #### Day 1: Introduction to Platter
